@@ -2,7 +2,7 @@
 
 Computer Science & Engineering student at VIT Bhopal University, based in Mumbai.
 
-- 🎓 CSE undergrad — CGPA 8.68
+- 🎓 CSE undergrad — CGPA 8.70
 - 💼 Completed a summer internship in Investment Banking (M&A) at Dam Capital Advisors
 - 📊 Interested in Indian financial markets and equity research, alongside core CS/ML work
 - 🤖 Currently building out AI/ML projects — regression, classification, and end-to-end model evaluation pipelines
